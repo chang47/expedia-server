@@ -12,6 +12,11 @@
     "express": "~4.13.1",
     "jade": "~1.11.0",
     "morgan": "~1.6.1",
-    "serve-favicon": "~2.3.0"
+    "serve-favicon": "~2.3.0",
+    "mongoose": "~4.0.6",
+    "cors": "*",
+    "mongoskin": "*",
+    "mongodb": "~2.0.33",
+    "monk": "~1.0.1"
   }
 }
